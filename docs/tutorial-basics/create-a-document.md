@@ -115,3 +115,14 @@ registry=http://localhost:4873
 ```bash
 npm config delete registry http://localhost:4873/
 ```
+
+### Summary evaluation
+`Before`
+
+![SPA](../tutorial-basics/img/image_2023_11_25T10_29_43_652Z.png)
+
+`After`
+
+![SPA](../tutorial-basics/img/image_2023_11_25T10_27_55_917Z.png)
+
+
